@@ -12,7 +12,7 @@ across training episodes, and to compare how the bias changes with **algorithm c
 
 ## Contents
 
-- `assignment2.ipynb` (or similarly named notebook)  
+- [assignment2.ipynb](assignment2.ipynb) (or similarly named notebook)  
   End-to-end workflow:
   - Environment definitions
   - Algorithm implementations
@@ -22,15 +22,15 @@ across training episodes, and to compare how the bias changes with **algorithm c
 - `assignment2_rapport.tex`  
   LaTeX source for the report.
 
-- `assignment2_rapport.pdf`  
+- [assignment2_rapport.pdf](assignment2_rapport.pdf)  
   Final report (compiled from the LaTeX source).
 
 - Generated figures (PNG):
-  - `overestimation_magnitude.png`
-  - `learning_curves.png`
-  - `ensemble_size_effect.png`
-  - `overestimation_bias.png`
-  - `policy_convergence.png`
+  - [![Overestimation Magnitude](overestimation_magnitude.png)](overestimation_magnitude.png)
+  - [![Learning Curves](learning_curves.png)](learning_curves.png)
+  - [![Ensemble Size Effect](ensemble_size_effect.png)](ensemble_size_effect.png)
+  - [![Overestimation Bias](overestimation_bias.png)](overestimation_bias.png)
+  - [![Policy Convergence](policy_convergence.png)](policy_convergence.png)
 
 ---
 
