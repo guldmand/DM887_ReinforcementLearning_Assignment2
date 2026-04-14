@@ -12,7 +12,7 @@ across training episodes, and to compare how the bias changes with **algorithm c
 
 ## Contents
 
-- [assignment2.ipynb](assignment2.ipynb) (or similarly named notebook)  
+- [assignment2.ipynb](assignment2.ipynb)
   End-to-end workflow:
   - Environment definitions
   - Algorithm implementations
